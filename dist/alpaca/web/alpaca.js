@@ -31133,6 +31133,7 @@ this["HandlebarsPrecompiled"]["web-edit"]["wizard"] = Handlebars.template({"1":f
     });
 
 })(jQuery);
+
 (function($) {
 
 	// czech - czech republic
@@ -31617,7 +31618,7 @@ this["HandlebarsPrecompiled"]["web-edit"]["wizard"] = Handlebars.template({"1":f
                     MONTH: "mánuðir",
                     YEAR: "ár"
                 },
-                "notOptional": "Þetta reitur er nauðsynlegur",
+                "notOptional": "Vinsamlegast fylltu inn í þennan reit",
                 "disallowValue": "Þetta gildi eru ekki leyft: {0}",
                 "invalidValueOfEnum": "Reiturinn verður að innihalda eitt af eftirfarandi: {0}. [{1}]",
                 "notEnoughItems": "Lágmarksfjöldi gilda er {0}",
